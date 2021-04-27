@@ -1,6 +1,4 @@
-package Sorting;
-
-import java.util.Arrays;
+package Algorithms.Sorting;
 
 public class SelectionSort {
     

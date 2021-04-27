@@ -1,4 +1,4 @@
-package Sorting;
+package Algorithms.Sorting;
 
 /* Java program for Merge Sort */
 class MergeSort

@@ -1,4 +1,4 @@
-package Sorting;
+package Algorithms.Sorting;
 
 // Java program for implementation of QuickSort
 class QuickSort
