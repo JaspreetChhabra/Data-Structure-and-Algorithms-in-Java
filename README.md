@@ -10,6 +10,8 @@
 
 4. [Merge Intervals](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/MergeIntervals.java)
 
+5. [First Positive Missing Number](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Hard/FirstMissingPositive.java)
+
 ## Stack
 
 1. [Next Greater Element](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Stack/Easy/NextGreaterElement1.java)
