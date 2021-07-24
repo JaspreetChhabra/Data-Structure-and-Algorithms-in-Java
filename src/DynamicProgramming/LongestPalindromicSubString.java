@@ -1,4 +1,4 @@
-package DynamicProgramming.CoinChange;
+package DynamicProgramming;
 
 //    Longest Palindromic Substring | Set 1 https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
 //    Difficulty Level : Hard
