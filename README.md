@@ -45,3 +45,7 @@
 5. [Merge Sort](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Sorting/MergeSort.java)
 
 6. [Heap Sort](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Sorting/HeapSort.java)
+
+## Dynamic Programming 
+
+[Longest Palindromic Substring](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/DynamicProgramming/LongestPalindromicSubString.java)
