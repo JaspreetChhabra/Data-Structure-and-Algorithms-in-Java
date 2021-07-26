@@ -46,6 +46,12 @@
 
 6. [Heap Sort](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Sorting/HeapSort.java)
 
-## Dynamic Programming 
+## Dynamic Programming
 
-[Longest Palindromic Substring](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/DynamicProgramming/LongestPalindromicSubString.java)
+1. [Longest Palindromic Substring](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/DynamicProgramming/LongestPalindromicSubString.java)
+
+## Backtracking
+
+1. [Palindromic Substrings](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Backtracking/Medium/PalindromePartitioning.java)
+
+2. [Permutations](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Backtracking/Medium/Permutations.java)
