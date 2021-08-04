@@ -1,4 +1,4 @@
-package LinkedList;
+package LinkedList.Easy;
 
 // Geeks https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/
 

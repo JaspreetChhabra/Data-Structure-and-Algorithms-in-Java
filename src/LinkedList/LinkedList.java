@@ -2,13 +2,29 @@ package LinkedList;
 
 public class LinkedList {
 
-    Node head;
+    public Node head;
     public static class Node {
         int key;
         Node next = null;
 
         public Node (int key){
             this.key = key;
+        }
+
+        public int getKey() {
+            return key;
+        }
+
+        public void setKey(int key) {
+            this.key = key;
+        }
+
+        public Node getNext() {
+            return next;
+        }
+
+        public void setNext(Node next) {
+            this.next = next;
         }
     }
 
@@ -31,9 +47,5 @@ public class LinkedList {
 
         //Print
         traversal(linkedList.head);
-
-        String s = new String("Gaurav");
-        s = "Jaspreet";
-        System.out.println(s);
     }
 }
