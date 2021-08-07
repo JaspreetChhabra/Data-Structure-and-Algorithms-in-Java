@@ -132,6 +132,17 @@ public class BinarySearchTree {
         }
     }
 
+    void printLeafNode(Node temp){
+        if (temp == null){
+            return;
+        }
+        if(temp.left == null && temp.right == null)
+            System.out.println(temp.key);
+
+        printLeafNode(temp.left);
+        printLeafNode(temp.right);
+
+    }
     public static void main(String[] args)
     {
         BinarySearchTree tree = new BinarySearchTree();
@@ -149,20 +160,17 @@ public class BinarySearchTree {
         tree.insert(70);
         tree.insert(60);
         tree.insert(80);
-        tree.delete(40);
 
+        System.out.println("Leaf node traversal ... ");
+        tree.printLeafNode(tree.root);
         // print inorder traversal of the BST
+        System.out.println("Inorder ... ");
         tree.inorder(); //LRoR
 
-//        System.out.println("Preorder ... ");
-//        tree.preorder(); //RoLR
-//
-//        System.out.println("PostOrder ... ");
-//        tree.postorder(); //LRRo
+        System.out.println("Preorder ... ");
+        tree.preorder(); //RoLR
 
-        String s = "ng";
-        if(s instanceof String){
-            System.out.println("true");
-        }
+        System.out.println("PostOrder ... ");
+        tree.postorder(); //LRRo
     }
 }
