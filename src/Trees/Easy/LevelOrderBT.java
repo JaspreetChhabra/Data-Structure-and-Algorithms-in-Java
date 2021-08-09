@@ -1,7 +1,6 @@
-package Trees;
+package Trees.Easy;
 
 import java.util.LinkedList;
-import java.util.PriorityQueue;
 import java.util.Queue;
 
 public class LevelOrderBT {
