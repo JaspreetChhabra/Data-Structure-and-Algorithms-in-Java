@@ -3,8 +3,8 @@ package Trees;
 public class BinarySearchTree {
 
     public class Node {
-        int key;
-        Node left, right ;
+        public int key;
+        public Node left, right ;
 
         public Node(int item){
             this.key = item;
