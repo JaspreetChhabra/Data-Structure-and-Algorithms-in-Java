@@ -12,6 +12,11 @@
 
 5. [First Positive Missing Number](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Hard/FirstMissingPositive.java)
 
+6. [Median Of Array](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Hard/MedianOfArray.java)
+
+7. [Remove Adjacent Duplicates](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Medium/RemoveAdjacentDuplicates.java)
+
+8. [Array Burst ](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Medium/ArrayBurstProblem.java)
 ## Stack
 
 1. [Next Greater Element](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Stack/Easy/NextGreaterElement1.java)
@@ -50,8 +55,24 @@
 
 1. [Longest Palindromic Substring](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/DynamicProgramming/LongestPalindromicSubString.java)
 
+2. [Coin Change](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Algorithms/DynamicProgramming/CoinChange/CoinChangeUsingKnapSackAlgo.java)
+
+3. [Longest Palindromic Substring ](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Algorithms/DynamicProgramming/LongestCommonSubsequence.java)
+
+4. [Longest Increasing Subsequence](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Algorithms/DynamicProgramming/LongestIncreasingSubsequence.java)
+
+5. [Maximum Jumps To Reach End ](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Algorithms/DynamicProgramming/MinimumJumpsToReachEnd.java)
+
 ## Backtracking
 
 1. [Palindromic Substrings](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Backtracking/Medium/PalindromePartitioning.java)
 
 2. [Permutations](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Backtracking/Medium/Permutations.java)
+
+3. [Rat in a Maze](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Backtracking/Medium/RatInAMaze.java)
+
+4. [Subsets](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Algorithms/Backtracking/Medium/SubSets.java)
+
+## Algorithms
+
+1. [Dutch National Flag](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/490c0021aaa5e2b79bb61b104020a4f5350478d1/src/Array/Medium/SortColors.java)
