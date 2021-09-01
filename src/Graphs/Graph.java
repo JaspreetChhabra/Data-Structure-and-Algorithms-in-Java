@@ -20,6 +20,10 @@ public class Graph {
         adj.get(v).add(u);
     }
 
+    public void addDirectedEdge(int u, int v){
+        adj.get(u).add(v);
+    }
+
     public static ArrayList<ArrayList<Integer>> getAdj() {
         return adj;
     }
