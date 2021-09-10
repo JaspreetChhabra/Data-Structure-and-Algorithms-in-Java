@@ -29,6 +29,32 @@
 
 2. [Counting Minutes](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Strings/CountingMinutes.java)
 
+## Graphs
+
+1. [Depth First Search](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/DFS.java)
+
+2. [Breath First Search](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/BFS.java)
+
+3. [Cycle Detection in Undirected Graph using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/CycleDetectionUGBFS.java)
+
+4. [Cycle Detection in Undirected Graph using DFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/CycleDetectionUGDFS.java)
+
+5. [Cycle Detection in Directed Graph](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/CycleDetectionDGDFS.java)
+
+6. [Bipartite Graphs using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/BipartiteGraphBFS.java)
+
+7. [Topological Sort using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/TopologicalSortBFS.java)
+
+8. [Topological Sort using DFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/TopologicalSortDFS.java)
+
+9. [Shortest Path Using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/ShortestPathUDBFS.java)
+
+10. [Shortest Path using Dijsktra's Algorithm](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/ShortestPathUDDijsktraAlgo.java)
+
+11. [Prim's Algorithm](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/PrimsAlgorithm.java)
+
+12. [Kruskal's Algorithm](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/KruskalAlgorithm.java)
+
 ## Tree
 
 1. [Binary Search Tree](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Trees/BinarySearchTree.java)
