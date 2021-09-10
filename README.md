@@ -17,6 +17,15 @@
 7. [Remove Adjacent Duplicates](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Medium/RemoveAdjacentDuplicates.java)
 
 8. [Array Burst ](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Medium/ArrayBurstProblem.java)
+
+9. [Form Largest Number](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/FormLargestNumber.java)
+
+10. [Kth Largest Element](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/KthLargestElements.java)
+
+11. [Maximum Product Subarray](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/MaximumProductSubarray.java)
+
+12. [Next Permutation](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/NextPermutation.java)
+
 ## Stack
 
 1. [Next Greater Element](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Stack/Easy/NextGreaterElement1.java)
