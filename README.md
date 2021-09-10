@@ -72,6 +72,12 @@
 
 3. [Level Order in Binary Tree](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Trees/LevelOrderBT.java)
 
+## Tries
+
+1. [Trie Data Structure](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Tries/TrieNode.java)
+
+2. [Insert and search Prefix in Trie](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Tries/InsertAndSearchPrefix.java)
+
 ## Sorting
 
 1. [Bubble Sort](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Algorithms/Sorting/BubbleSort.java)
