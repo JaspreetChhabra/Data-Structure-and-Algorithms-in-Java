@@ -17,6 +17,15 @@
 7. [Remove Adjacent Duplicates](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Medium/RemoveAdjacentDuplicates.java)
 
 8. [Array Burst ](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/d3141d1f68db23e6524a44242000f396380d31f6/src/Array/Medium/ArrayBurstProblem.java)
+
+9. [Form Largest Number](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/FormLargestNumber.java)
+
+10. [Kth Largest Element](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/KthLargestElements.java)
+
+11. [Maximum Product Subarray](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/MaximumProductSubarray.java)
+
+12. [Next Permutation](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Array/Medium/NextPermutation.java)
+
 ## Stack
 
 1. [Next Greater Element](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Stack/Easy/NextGreaterElement1.java)
@@ -29,6 +38,32 @@
 
 2. [Counting Minutes](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Strings/CountingMinutes.java)
 
+## Graphs
+
+1. [Depth First Search](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/DFS.java)
+
+2. [Breath First Search](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/BFS.java)
+
+3. [Cycle Detection in Undirected Graph using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/CycleDetectionUGBFS.java)
+
+4. [Cycle Detection in Undirected Graph using DFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/CycleDetectionUGDFS.java)
+
+5. [Cycle Detection in Directed Graph](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/CycleDetectionDGDFS.java)
+
+6. [Bipartite Graphs using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/BipartiteGraphBFS.java)
+
+7. [Topological Sort using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/TopologicalSortBFS.java)
+
+8. [Topological Sort using DFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/TopologicalSortDFS.java)
+
+9. [Shortest Path Using BFS](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/ShortestPathUDBFS.java)
+
+10. [Shortest Path using Dijsktra's Algorithm](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/ShortestPathUDDijsktraAlgo.java)
+
+11. [Prim's Algorithm](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/PrimsAlgorithm.java)
+
+12. [Kruskal's Algorithm](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Graphs/KruskalAlgorithm.java)
+
 ## Tree
 
 1. [Binary Search Tree](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Trees/BinarySearchTree.java)
@@ -36,6 +71,12 @@
 2. [AVL](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Trees/AVL.java)
 
 3. [Level Order in Binary Tree](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Trees/LevelOrderBT.java)
+
+## Tries
+
+1. [Trie Data Structure](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Tries/TrieNode.java)
+
+2. [Insert and search Prefix in Trie](https://github.com/JaspreetChhabra/Data-Structure-and-Algorithms-in-Java/blob/main/src/Tries/InsertAndSearchPrefix.java)
 
 ## Sorting
 
