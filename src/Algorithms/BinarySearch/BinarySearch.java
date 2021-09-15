@@ -1,4 +1,4 @@
-package Algorithms;
+package Algorithms.BinarySearch;
 
 //    https://leetcode.com/problems/binary-search/
 //    LeetCode 704. Binary Search
